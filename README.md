@@ -7,3 +7,4 @@
 
 <a href="https://www.credly.com/badges/bdad8598-f9b9-441e-8ed7-557945171a5d/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner" /></a>
 <a href="https://www.credly.com/badges/df5adaaf-28a5-4805-a685-034fd3fb1c88/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="AWS Certified Solutions Architect – Associate" /></a>
+<a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/ekdORFB6Sy9ycnQvWjIwRFlINzU2Zz09"><img src="https://nlp.netlearning.co.jp/api/v1.0/openbadge/v2/Assertion/ekdORFB6Sy9ycnQvWjIwRFlINzU2Zz09/Image" width="150" alt="JDLA Deep Learning for GENERAL 2025 #2" /></a>
